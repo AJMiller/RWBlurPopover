@@ -9,7 +9,7 @@
 #import <sys/types.h>
 #import <sys/sysctl.h>
 #import <QuartzCore/QuartzCore.h>
-#import <GPUImage.h>
+#import "GPUImage.h"
 #import "RWBlurPopover.h"
 
 @interface UIDevice (Platform)
